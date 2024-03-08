@@ -1,0 +1,17 @@
+.center {
+    padding: 70px 0;
+  text-align: center;
+  }
+
+  .select-buttonss {
+    background-color: rgba(187, 114, 232, 0.938) !important;
+  }
+
+  .select-buttonss:hover {
+    background: linear-gradient(
+      82.3deg,
+      rgb(135, 88, 205) 10.8%,
+      rgb(85, 74, 237) 94.3%
+    );
+    transform: scale(1.1,1.19);
+  }
